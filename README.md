@@ -18,7 +18,8 @@ Install the following for setting the project up
 ### Pandas
 ### Numpy
 
-Now download all the files and folders in the repository.
+Now download all the files in the repository.
+Make folders face_encodings and Profile before runnning for the first time.
 EchoMart is now ready.
 
 ## Running on GPU (optional)
